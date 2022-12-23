@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:url(pink.png);
+}
+.countainer{
+    text-align:center;
+}
+.top-countainer{
+   padding:20px; 
+}
+.header{
+    margin-top:180px;
+    font-size:60px;
+}
+.paragraph{
+    font-size:25px;
+    margin-top:25px;
+    color:tomato;
+}
+.photo-profile{
+margin-top:150px;
+border-radius: 50%;
+}
+h2{
+    margin-top:20px;
+    color:rgb(94, 11, 59);
+}
+p{
+    margin-top:20px;
+    line-height:2;
+    font-size:25px;
+}
+.programming{
+    border-radius: 50%;
+}
+.header2{
+    padding: 20px;
+}
+.header3{
+    padding: 20px;
+}
+.contact-me{
+    padding: 40px;
+}
+.contact-header-3{
+    padding: 20px;
+}
+a{
+    margin-top: 80px;
+}
+.btn{
+    margin-top:20px;
+    width: 100px;
+    padding: 30px;
+text-decoration: none;
+color:rgb(65, 4, 65);
+}
+.contact-me{
+    margin-top: 20px;
+    padding: 20px;
+}
+.bottom-countainer{
+    padding: 50px;
+    text-align: center;
+}
+.footer-link{
+    text-decoration: none;
+    color:rgb(65, 4, 65);
+    padding-left: 60px;
+    margin-right: 100px;
+}
